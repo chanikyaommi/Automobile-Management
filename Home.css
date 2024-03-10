@@ -1,0 +1,23 @@
+/* Home.css */
+
+.home-container {
+    text-align: center;
+    color: aqua;
+    margin-top: 0px;
+    /* background-image: url('https://th.bing.com/th/id/R.409ecbe61ce663526eef4b0ae2d8bbda?rik=l%2folnuqD7oF8Ag&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2f4k-Car-Cool-Backgrounds-Wallpapers.jpg&ehk=jqTyjabToWdy5zt09G3G1tQTAFOy9L4Dh6Uk118LnTM%3d&risl=&pid=ImgRaw&r=0'); */
+    background-size: cover ;
+    background-position: top;
+    background-repeat: no-repeat;
+   height: 25vh;
+    /* Add any additional styling for home-container */
+  }
+  
+  .body {
+    text-align: center;
+    color: #5f5555; /* Change the color to your preferred text color */
+    padding: 0px;
+    /* background-color: #f1d2d2; */
+    /* Add any additional styling for the body */
+  }
+  
+  /* Add more styles as needed */

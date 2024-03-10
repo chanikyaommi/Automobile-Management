@@ -1,0 +1,25 @@
+.image_container{
+    /* border: 1px solid black;
+    border-radius: 12px; */
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-left: 600px;
+    margin-top: 90px;
+}
+
+.Selected_head{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+.Button{
+    margin-left: 660px;
+    padding: 12px;
+    border-radius: 5px;
+    color: white;
+    width: 110px;
+}

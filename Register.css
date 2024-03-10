@@ -1,0 +1,59 @@
+/* Register.css */
+
+/* Style for the container */
+
+.signup{
+    height: 100vh;
+    padding: 20px;
+    /* background-image: url(./Rlogo.png); */
+    background-size: cover;
+}
+
+.signup-container {
+    max-width: 400px;
+    margin-left: 400px;
+    color: #5d5d5f;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid black;
+    font-family: cursive;
+    text-align: center;
+    border-radius: 20px;
+    background-color:transparent;
+  }
+  
+  /* Style for form elements */
+  .signup-form input {
+    width: 100%;
+    color: black;
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid rgb(78, 77, 77);
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color: transparent;
+  }
+  
+  .signup-form button {
+    width: 50%;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    background-color: transparent;
+    color: #2e2d2d;
+    cursor: pointer;
+  }
+  
+  .signup-form button:hover {
+    background-color: #588c8f;
+    color: white;
+  }
+  
+  .signup-form label {
+    margin-bottom: 5px;
+  }
+  
+  .signup-form p {
+    margin-top: 10px;
+    color: red;
+  }
